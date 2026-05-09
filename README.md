@@ -1,4 +1,4 @@
-# [Sovereign AI Infrastructure | Integrity-Lead] 🏛️🦾
+# Sovereign AI Infrastructure | Integrity-Lead 🏛️🦾
 
 ### Strategic Focus: High-Precision Runtime Integrity & Structural Sovereignty.
 Based in **São Paulo, BR**, architecting the next generation of autonomous execution boundaries.
