@@ -21,10 +21,16 @@ The **Layer 5 Protocol** is a deterministic enforcement layer designed to elimin
 
 ---
 
-## 📬 Contact & Connectivity
+## 📬 Connectivity & Gateway
 For technical audits, strategic briefings, or infrastructure inquiries:
-- **Email:** tech.lead.layer5.systems@gmail.com
-- **LinkedIn:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+
+*   **Live Infrastructure Endpoint:** [integrityleadlabs.com](https://integrityleadlabs.com) 🌐
+*   **Interactive Target Sandbox:** `POST https://integrityleadlabs.com`
+    *   *Payload Benchmark:* Send `{"value": 0.95}` via cURL to test the Layer 5 Active Enforcement boundary in real-time.
+*   **Corporate Communications:** tech.lead@integrityleadlabs.com
+
+*"Sovereignty is not an option; it is the infrastructure of the future."*
+
 
   
-> *"Sovereignty is not an option; it is the infrastructure of the future."*
+
