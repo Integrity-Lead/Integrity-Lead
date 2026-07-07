@@ -38,6 +38,22 @@ layer5-radar v1.0.4 // NODE: BR-932 // SÃO PAULO
 ● Deterministic Guardrails ACTIVE // System Immunity Stable (93.2% Precision)
 ```
 
+### Usage: Step-by-Step
+Install the official Client CLI gateway (Python 3.8+, standard library decoupled execution):
+```bash
+pip install integrity-layer5-radar
+```
+
+Audit your local ingestion schema configurations or active payload logs for structural anomalies:
+```bash
+layer5-radar scan ./config_payload.json
+```
+
+Enforce active continuous integration gates (CI/CD) to drop multi-threaded semantic drift before context compilation (exits with code 2 if an anomaly is isolated):
+```bash
+layer5-radar scan ./logs.jsonl --fail-on-anomaly || echo "Layer 5 compliance failure detected"
+```
+
 > Blocks above are real layer5-radar output; reproduce them from an active deployment.
 
 **Sample telemetry JSON stream format:**
